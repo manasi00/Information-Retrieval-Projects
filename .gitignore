@@ -1,4 +1,0 @@
-_env/ >> .gitignore
-
-
-echo _env/
